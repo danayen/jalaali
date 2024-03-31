@@ -9,7 +9,7 @@
         
     """,
 
-    'author': "Arash Homayounfar",
+    'author': "Arash Homayounfar, try upgrade by danaye",
     'website': "https://karvazendegi.com/odoo",
 
     # Categories can be used to filter modules in modules listing
